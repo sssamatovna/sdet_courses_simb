@@ -99,3 +99,6 @@ public class Main {
         System.out.println("Всего кошек создано: " + Cat.getCatCount());
     }
 }
+
+
+//дз выполнено
